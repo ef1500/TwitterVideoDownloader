@@ -1,8 +1,5 @@
 # Twitter Voice Downloader
 # ef1500
-
-from turtle import down
-from gym import make
 import requests
 import re
 import os
